@@ -3,7 +3,9 @@
 <p align="center"><project-description>Dataset ( Nangka dan Pepaya )</p>
 
 
-- [Repo](https://github.com/qiqinn/final_proj_ai"<final_proj_ai> Repo")
+![](/Papaya/001.jpg)
+
+![](/Nangka/001.jpg)
 
 Ketua
 - Nama : Muthaqin Dean
