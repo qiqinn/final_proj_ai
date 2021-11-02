@@ -1,6 +1,7 @@
-# Final Project Kecerdasan Buatan Dataset ( Nangka dan Pepaya )
+# Dataset Daun Nangka dan Daun Pepaya
 
-## Project ini merupakan kumpulan dataset daun. Terdapat 2 label jenis daun dengan masing-masing label terdiri atas 50 gambar.
+## Deskirpsi
+Project ini merupakan kumpulan dataset daun untuk tugas akhir matakuliah kecerdasan buatan. Terdapat 2 label jenis daun dengan masing-masing label terdiri atas 50 gambar.
 
 
 ## Contoh
