@@ -2,10 +2,6 @@
 
 <p align="center"><project-description>Dataset ( Nangka dan Pepaya )</p>
 
-
-![](/Dataset/Papaya/001.jpg)
-
-![](/Dataset/Nangka/001.jpg)
   
 Ketua
 - Nama : Muthaqin Dean
@@ -18,3 +14,10 @@ Anggota
 - Nim : 201910370311340
 - Kelas : Kecerdasan Buatan 5E
 - [Profile](https://github.com/asyifaarsyila "Alif Syifa Arsyila")
+
+  
+ 
+Contoh  
+- ![](/Dataset/Pepaya/001.jpg)
+- ![](/Dataset/Nangka/001.jpg)
+  
