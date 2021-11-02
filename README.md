@@ -3,10 +3,10 @@
 <p align="center"><project-description>Dataset ( Nangka dan Pepaya )</p>
 
 
-![](/Papaya/001.jpg)
+![](/Dataset/Papaya/001.jpg)
 
-![](/Nangka/001.jpg)
-
+![](/Dataset/Nangka/001.jpg)
+  
 Ketua
 - Nama : Muthaqin Dean
 - Nim : 201910370311340
