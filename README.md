@@ -1,11 +1,18 @@
-Final Project Kecerdasan Buatan : Dataset ( Nangka dan Pepaya )
+<h1 align="center">Final Project Kecerdasan Buatan</h1>
+
+<p align="center"><project-description>Dataset ( Nangka dan Pepaya )</p>
+
+
+- [Repo](https://github.com/qiqinn/final_proj_ai"<final_proj_ai> Repo")
 
 Ketua
-Nama : Muthaqin Dean
-Nim : Muthaqin Dean
-Kelas : Kecerdasan Buatan 5E
+- Nama : Muthaqin Dean
+- Nim : 201910370311340
+- Kelas : Kecerdasan Buatan 5E
+- [Profile](https://github.com/qiqin "Muthaqin Dean")
 
 Anggota
-Nama : Alif Syifa Arsyila
-Nim : 201910370311340
-Kelas : Kecerdasan Buatan 5E
+- Nama : Alif Syifa Arsyila
+- Nim : 201910370311340
+- Kelas : Kecerdasan Buatan 5E
+- [Profile](https://github.com/asyifaarsyila "Alif Syifa Arsyila")
