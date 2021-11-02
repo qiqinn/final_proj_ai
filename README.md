@@ -18,6 +18,6 @@ Anggota
   
  
 Contoh  
-- ![](/Dataset/Pepaya/001.jpg)
+- ![](/Dataset/Pepaya/022.jpg)
 - ![](/Dataset/Nangka/001.jpg)
   
