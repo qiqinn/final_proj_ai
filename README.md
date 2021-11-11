@@ -22,3 +22,9 @@ Project ini merupakan kumpulan dataset daun untuk tugas akhir mata kuliah kecerd
 - Kelas : Kecerdasan Buatan 5E
   
 
+## Install modul - modul
+
+- $ pip install -U scikit-learn
+- $ pip install --user --upgrade tensorflow
+
+
