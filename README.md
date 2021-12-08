@@ -13,7 +13,7 @@ Project ini merupakan kumpulan dataset daun untuk tugas akhir mata kuliah kecerd
 
 ## Ketua
 - Nama : [Muthaqin Dean](https://github.com/qiqin "Muthaqin Dean")
-- Nim : 201910370311340
+- Nim : 201910370311342
 - Kelas : Kecerdasan Buatan 5E 
 
 ## Anggota
